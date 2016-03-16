@@ -63,5 +63,5 @@ Dolby Digital(AC3), Dolby Digital Plus(E-AC3) and Dolby TrueHD(MLP).
 
 ###Contact us
 
- - Twitter: @imoreapps
- - Email: imoreapps@gmail.com
+ - Twitter: @iOS_Samboo
+ - Email: wusanbaoApple@iCloud.com
